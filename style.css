@@ -1,0 +1,48 @@
+#container {
+    max-width: 1200px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin: auto;
+    width: 60%;
+    border: 3px solid black;
+    padding: 5px;
+    color: black;
+}
+.center
+{
+    text-align: center;
+    padding-top: 100px;
+    margin-top: 50%;
+}
+#pdfInput {
+    flex: 1;
+    padding: 15px;
+    border: none;
+    background-color: rgb(72, 155, 211);
+    border-radius: 10px;
+    font-size: 18px;
+    color: black;
+}
+.input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+
+}
+.output{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    
+}
+.all{
+    background-image: url("images/bg1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: black;
+}
